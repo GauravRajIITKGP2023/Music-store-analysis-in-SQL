@@ -45,7 +45,7 @@ This project focuses on analyzing a music store database to gain actionable insi
 ### Productivity Insights:
 - With the linkage between **Employee**, **Invoice**, and **Customer**, productivity metrics such as revenue per employee or customer satisfaction per support rep can be analyzed. Additionally, employee hierarchy and reporting lines can be observed from the `ReportsTo` column in the **Employee** table, which might be useful for organizational structure analysis.
 
-## Key Insights
+## Key Insights From Data
 
 1. **Employee Hierarchy**: Identified the top-level employee in the organizational hierarchy, useful for understanding reporting structures and decision-making authority.
 2. **Top Countries by Invoice Count**: Revealed the countries with the highest number of invoices, indicating regions with the most customer activity, guiding marketing and promotional efforts.
@@ -59,7 +59,7 @@ This project focuses on analyzing a music store database to gain actionable insi
 10. **Popular Music Genres by Country**: Determined the most popular music genre for each country, guiding localized marketing strategies and inventory management.
 11. **Top Customer by Country**: Identified the top-spending customer in each country, useful for targeted marketing campaigns and understanding high-value customers.
 
-## Summary
+## Summary of Data
 The project effectively utilized SQL to explore and answer complex business questions, providing deep insights into customer behavior, sales performance, and artist popularity. By analyzing the data through a relational schema, the project uncovered valuable information that can inform strategic decisions in marketing, promotions, and customer engagement. Key findings include identifying the best customers, the most profitable locations, top-performing artists, and the most popular music genres across different countries.
 
 ## Conclusion
