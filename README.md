@@ -6,6 +6,7 @@ This project focuses on analyzing a music store database to gain actionable insi
 ## Tools & Technologies
 - **SQL**: The primary tool used for data retrieval and analysis.
 - **PostgreSQL**: The database management system used to store and query the data.
+- **PG Admin 4:** Used for managing the PostgreSQL database.
 - **Data Modeling**: Utilized a relational schema, linking various entities such as Customer, Invoice, Track, Artist, and more to derive meaningful insights.
 
 ## Questions Asked
